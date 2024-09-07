@@ -1,0 +1,7 @@
+E:\C#\Ch1\StopSign\StopSign\bin\Debug\StopSign.exe.config
+E:\C#\Ch1\StopSign\StopSign\bin\Debug\StopSign.exe
+E:\C#\Ch1\StopSign\StopSign\bin\Debug\StopSign.pdb
+E:\C#\Ch1\StopSign\StopSign\obj\Debug\StopSign.csprojAssemblyReference.cache
+E:\C#\Ch1\StopSign\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+E:\C#\Ch1\StopSign\StopSign\obj\Debug\StopSign.exe
+E:\C#\Ch1\StopSign\StopSign\obj\Debug\StopSign.pdb

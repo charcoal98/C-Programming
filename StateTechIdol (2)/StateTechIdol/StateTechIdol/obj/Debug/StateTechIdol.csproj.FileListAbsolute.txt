@@ -1,0 +1,7 @@
+E:\C#\Final\StateTechIdol\StateTechIdol\bin\Debug\StateTechIdol.exe.config
+E:\C#\Final\StateTechIdol\StateTechIdol\bin\Debug\StateTechIdol.exe
+E:\C#\Final\StateTechIdol\StateTechIdol\bin\Debug\StateTechIdol.pdb
+E:\C#\Final\StateTechIdol\StateTechIdol\obj\Debug\StateTechIdol.csprojAssemblyReference.cache
+E:\C#\Final\StateTechIdol\StateTechIdol\obj\Debug\StateTechIdol.csproj.CoreCompileInputs.cache
+E:\C#\Final\StateTechIdol\StateTechIdol\obj\Debug\StateTechIdol.exe
+E:\C#\Final\StateTechIdol\StateTechIdol\obj\Debug\StateTechIdol.pdb
