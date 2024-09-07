@@ -1,0 +1,7 @@
+E:\C#\Ch4\CheckingCharges\CheckingCharges\bin\Debug\CheckingCharges.exe.config
+E:\C#\Ch4\CheckingCharges\CheckingCharges\bin\Debug\CheckingCharges.exe
+E:\C#\Ch4\CheckingCharges\CheckingCharges\bin\Debug\CheckingCharges.pdb
+E:\C#\Ch4\CheckingCharges\CheckingCharges\obj\Debug\CheckingCharges.csprojAssemblyReference.cache
+E:\C#\Ch4\CheckingCharges\CheckingCharges\obj\Debug\CheckingCharges.csproj.CoreCompileInputs.cache
+E:\C#\Ch4\CheckingCharges\CheckingCharges\obj\Debug\CheckingCharges.exe
+E:\C#\Ch4\CheckingCharges\CheckingCharges\obj\Debug\CheckingCharges.pdb

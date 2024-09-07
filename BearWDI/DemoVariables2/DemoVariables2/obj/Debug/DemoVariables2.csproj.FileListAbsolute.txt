@@ -1,0 +1,6 @@
+E:\C#\Ch2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.exe.config
+E:\C#\Ch2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.exe
+E:\C#\Ch2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.pdb
+E:\C#\Ch2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.csproj.CoreCompileInputs.cache
+E:\C#\Ch2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.exe
+E:\C#\Ch2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.pdb

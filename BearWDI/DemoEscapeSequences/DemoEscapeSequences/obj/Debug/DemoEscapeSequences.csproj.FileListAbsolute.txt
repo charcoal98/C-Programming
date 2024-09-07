@@ -1,0 +1,7 @@
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\DemoEscapeSequences.exe.config
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\DemoEscapeSequences.exe
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\DemoEscapeSequences.pdb
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\DemoEscapeSequences.csprojAssemblyReference.cache
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\DemoEscapeSequences.csproj.CoreCompileInputs.cache
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\DemoEscapeSequences.exe
+E:\C#\Ch2\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\DemoEscapeSequences.pdb

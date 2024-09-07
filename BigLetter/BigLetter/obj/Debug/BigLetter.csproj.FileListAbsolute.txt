@@ -1,0 +1,6 @@
+E:\C#\Ch1\BigLetter\BigLetter\bin\Debug\BigLetter.exe.config
+E:\C#\Ch1\BigLetter\BigLetter\bin\Debug\BigLetter.exe
+E:\C#\Ch1\BigLetter\BigLetter\bin\Debug\BigLetter.pdb
+E:\C#\Ch1\BigLetter\BigLetter\obj\Debug\BigLetter.csproj.CoreCompileInputs.cache
+E:\C#\Ch1\BigLetter\BigLetter\obj\Debug\BigLetter.exe
+E:\C#\Ch1\BigLetter\BigLetter\obj\Debug\BigLetter.pdb

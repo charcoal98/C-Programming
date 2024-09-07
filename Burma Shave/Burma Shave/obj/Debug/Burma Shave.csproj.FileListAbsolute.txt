@@ -1,0 +1,6 @@
+E:\C#\Ch1\Burma Shave\Burma Shave\bin\Debug\Burma Shave.exe.config
+E:\C#\Ch1\Burma Shave\Burma Shave\bin\Debug\Burma Shave.exe
+E:\C#\Ch1\Burma Shave\Burma Shave\bin\Debug\Burma Shave.pdb
+E:\C#\Ch1\Burma Shave\Burma Shave\obj\Debug\Burma Shave.csproj.CoreCompileInputs.cache
+E:\C#\Ch1\Burma Shave\Burma Shave\obj\Debug\Burma Shave.exe
+E:\C#\Ch1\Burma Shave\Burma Shave\obj\Debug\Burma Shave.pdb

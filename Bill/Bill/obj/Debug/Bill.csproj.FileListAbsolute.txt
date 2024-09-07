@@ -1,0 +1,6 @@
+E:\C#\Ch2\Bill\Bill\bin\Debug\Bill.exe.config
+E:\C#\Ch2\Bill\Bill\bin\Debug\Bill.exe
+E:\C#\Ch2\Bill\Bill\bin\Debug\Bill.pdb
+E:\C#\Ch2\Bill\Bill\obj\Debug\Bill.csproj.CoreCompileInputs.cache
+E:\C#\Ch2\Bill\Bill\obj\Debug\Bill.exe
+E:\C#\Ch2\Bill\Bill\obj\Debug\Bill.pdb
