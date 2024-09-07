@@ -1,0 +1,7 @@
+E:\C#\Ch5\You Do It\You Do It\bin\Debug\You Do It.exe.config
+E:\C#\Ch5\You Do It\You Do It\bin\Debug\You Do It.exe
+E:\C#\Ch5\You Do It\You Do It\bin\Debug\You Do It.pdb
+E:\C#\Ch5\You Do It\You Do It\obj\Debug\You Do It.csprojAssemblyReference.cache
+E:\C#\Ch5\You Do It\You Do It\obj\Debug\You Do It.csproj.CoreCompileInputs.cache
+E:\C#\Ch5\You Do It\You Do It\obj\Debug\You Do It.exe
+E:\C#\Ch5\You Do It\You Do It\obj\Debug\You Do It.pdb

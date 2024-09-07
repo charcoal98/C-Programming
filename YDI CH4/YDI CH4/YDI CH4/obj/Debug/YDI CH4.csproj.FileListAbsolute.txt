@@ -1,0 +1,6 @@
+E:\C#\Ch4\YDI CH4\YDI CH4\bin\Debug\YDI CH4.exe.config
+E:\C#\Ch4\YDI CH4\YDI CH4\bin\Debug\YDI CH4.exe
+E:\C#\Ch4\YDI CH4\YDI CH4\bin\Debug\YDI CH4.pdb
+E:\C#\Ch4\YDI CH4\YDI CH4\obj\Debug\YDI CH4.csproj.CoreCompileInputs.cache
+E:\C#\Ch4\YDI CH4\YDI CH4\obj\Debug\YDI CH4.exe
+E:\C#\Ch4\YDI CH4\YDI CH4\obj\Debug\YDI CH4.pdb

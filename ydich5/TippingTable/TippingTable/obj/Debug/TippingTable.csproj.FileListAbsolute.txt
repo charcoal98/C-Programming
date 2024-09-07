@@ -1,0 +1,6 @@
+E:\C#\Ch5\TippingTable\TippingTable\bin\Debug\TippingTable.exe.config
+E:\C#\Ch5\TippingTable\TippingTable\bin\Debug\TippingTable.exe
+E:\C#\Ch5\TippingTable\TippingTable\bin\Debug\TippingTable.pdb
+E:\C#\Ch5\TippingTable\TippingTable\obj\Debug\TippingTable.csproj.CoreCompileInputs.cache
+E:\C#\Ch5\TippingTable\TippingTable\obj\Debug\TippingTable.exe
+E:\C#\Ch5\TippingTable\TippingTable\obj\Debug\TippingTable.pdb

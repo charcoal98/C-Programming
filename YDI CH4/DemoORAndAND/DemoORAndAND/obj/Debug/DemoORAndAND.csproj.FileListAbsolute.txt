@@ -1,0 +1,6 @@
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.csproj.CoreCompileInputs.cache
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+E:\C#\Ch3\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.pdb

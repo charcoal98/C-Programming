@@ -1,0 +1,6 @@
+E:\C#\Ch2\Tests\Tests\bin\Debug\Tests.exe.config
+E:\C#\Ch2\Tests\Tests\bin\Debug\Tests.exe
+E:\C#\Ch2\Tests\Tests\bin\Debug\Tests.pdb
+E:\C#\Ch2\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+E:\C#\Ch2\Tests\Tests\obj\Debug\Tests.exe
+E:\C#\Ch2\Tests\Tests\obj\Debug\Tests.pdb
