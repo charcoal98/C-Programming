@@ -1,0 +1,7 @@
+E:\C#\Ch5\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+E:\C#\Ch5\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+E:\C#\Ch5\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+E:\C#\Ch5\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.csprojAssemblyReference.cache
+E:\C#\Ch5\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.csproj.CoreCompileInputs.cache
+E:\C#\Ch5\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.exe
+E:\C#\Ch5\ChatAWhile\ChatAWhile\obj\Debug\ChatAWhile.pdb

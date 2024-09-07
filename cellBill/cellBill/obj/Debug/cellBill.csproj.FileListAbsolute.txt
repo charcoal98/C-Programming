@@ -1,0 +1,7 @@
+E:\C#\Ch4\cellBill\cellBill\bin\Debug\cellBill.exe.config
+E:\C#\Ch4\cellBill\cellBill\bin\Debug\cellBill.exe
+E:\C#\Ch4\cellBill\cellBill\bin\Debug\cellBill.pdb
+E:\C#\Ch4\cellBill\cellBill\obj\Debug\cellBill.csprojAssemblyReference.cache
+E:\C#\Ch4\cellBill\cellBill\obj\Debug\cellBill.csproj.CoreCompileInputs.cache
+E:\C#\Ch4\cellBill\cellBill\obj\Debug\cellBill.exe
+E:\C#\Ch4\cellBill\cellBill\obj\Debug\cellBill.pdb
