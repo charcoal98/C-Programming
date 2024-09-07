@@ -1,0 +1,7 @@
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\bin\Debug\YDIArrays.exe.config
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\bin\Debug\YDIArrays.exe
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\bin\Debug\YDIArrays.pdb
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\obj\Debug\YDIArrays.csprojAssemblyReference.cache
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\obj\Debug\YDIArrays.csproj.CoreCompileInputs.cache
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\obj\Debug\YDIArrays.exe
+C:\Users\itc204\Documents\Nathan Allen Bears I Forgot My USB Today Folder\YDIArrays\YDIArrays\obj\Debug\YDIArrays.pdb
