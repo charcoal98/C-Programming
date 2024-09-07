@@ -1,0 +1,7 @@
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+E:\C#\Ch4\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
