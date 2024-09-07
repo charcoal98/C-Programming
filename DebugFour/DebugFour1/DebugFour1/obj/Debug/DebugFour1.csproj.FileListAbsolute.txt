@@ -1,0 +1,7 @@
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\bin\Debug\DebugFour1.exe.config
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\bin\Debug\DebugFour1.exe
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\bin\Debug\DebugFour1.pdb
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\obj\Debug\DebugFour1.csprojAssemblyReference.cache
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\obj\Debug\DebugFour1.csproj.CoreCompileInputs.cache
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\obj\Debug\DebugFour1.exe
+E:\C#\Ch4\Ch 4 Debug Exercises\DebugFour1\DebugFour1\obj\Debug\DebugFour1.pdb
