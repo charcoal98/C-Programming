@@ -1,0 +1,6 @@
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\bin\Debug\GreenvillMotto2.exe.config
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\bin\Debug\GreenvillMotto2.exe
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\bin\Debug\GreenvillMotto2.pdb
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\obj\Debug\GreenvillMotto2.csproj.CoreCompileInputs.cache
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\obj\Debug\GreenvillMotto2.exe
+E:\C#\Ch1\GreenvillMotto2\GreenvillMotto2\obj\Debug\GreenvillMotto2.pdb
