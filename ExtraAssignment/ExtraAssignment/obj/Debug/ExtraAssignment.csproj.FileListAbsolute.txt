@@ -1,0 +1,9 @@
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.exe.config
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.exe
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\bin\Debug\ExtraAssignment.pdb
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.Form1.resources
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.Properties.Resources.resources
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csproj.GenerateResource.cache
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.csproj.CoreCompileInputs.cache
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.exe
+E:\C#\Ch3\ExtraAssignment\ExtraAssignment\obj\Debug\ExtraAssignment.pdb

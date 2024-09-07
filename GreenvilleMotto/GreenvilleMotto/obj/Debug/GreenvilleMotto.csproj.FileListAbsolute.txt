@@ -1,0 +1,7 @@
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.exe.config
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.exe
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\bin\Debug\GreenvilleMotto.pdb
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.csprojAssemblyReference.cache
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.csproj.CoreCompileInputs.cache
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.exe
+E:\C#\Ch1\GreenvilleMotto\GreenvilleMotto\obj\Debug\GreenvilleMotto.pdb
