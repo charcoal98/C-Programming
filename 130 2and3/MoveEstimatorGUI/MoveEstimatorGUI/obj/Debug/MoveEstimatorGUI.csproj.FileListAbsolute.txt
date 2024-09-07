@@ -1,0 +1,10 @@
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe.config
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.pdb
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csprojAssemblyReference.cache
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Form1.resources
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Properties.Resources.resources
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.GenerateResource.cache
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.CoreCompileInputs.cache
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.exe
+E:\C#\Ch3\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.pdb

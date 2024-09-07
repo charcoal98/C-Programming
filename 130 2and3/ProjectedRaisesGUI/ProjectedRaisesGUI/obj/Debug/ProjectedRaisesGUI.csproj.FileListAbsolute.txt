@@ -1,0 +1,10 @@
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe.config
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.pdb
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csprojAssemblyReference.cache
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Form1.resources
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Properties.Resources.resources
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.GenerateResource.cache
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.CoreCompileInputs.cache
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.exe
+E:\C#\Ch3\ProjectedRaisesGUI\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.pdb
